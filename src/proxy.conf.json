@@ -1,0 +1,6 @@
+{
+  "/endpoint": {
+    "target": "http://172.22.0.100:8092/auth/prueba",
+    "secure": false
+  }
+}
